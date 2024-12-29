@@ -5,7 +5,7 @@
 #si se coloca un negativo en la posicion inicial se ubica de erecha a izquierda, pero el reco
 #rido del metodo sigue siendo de izquierda a derecha
 
-
+print("vamos a subirlo a github")
 print("****************")
 print("  metodo count  ")
 print("****************")
