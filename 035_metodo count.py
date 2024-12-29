@@ -6,6 +6,7 @@
 #rido del metodo sigue siendo de izquierda a derecha
 
 print("vamos a subirlo a github")
+#lo que vamos a hacer es agregar esa linea de codigo para probar la rama
 print("****************")
 print("  metodo count  ")
 print("****************")
