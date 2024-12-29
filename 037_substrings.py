@@ -2,6 +2,8 @@
 #       variable[inicio:final:saltos] todos enteros, inicio y final
 #pueden ser positivos o negativos
 
+# la verdad no recuerdo exacteament muchos comados de python
+
 string="0123456789"
 substring=""
 print(f"Cadena principal {string}\n ")
