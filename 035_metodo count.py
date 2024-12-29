@@ -7,6 +7,9 @@
 
 print("vamos a subirlo a github")
 #lo que vamos a hacer es agregar esa linea de codigo para probar la rama-
+#preparamos camboas pasando al stage
+#los deshicimos
+#nuevamante aplicando un cambio al archivo para aplicar
 print("****************")
 print("  metodo count  ")
 print("****************")
